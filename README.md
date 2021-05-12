@@ -1,0 +1,1 @@
+Here are some mini-projects completed while taking a graduate level course (CSCI 503) in python programming at Northern Illinois University, DeKalb. I have also included some of my personal projects in this repository as well. 
